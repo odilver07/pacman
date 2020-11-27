@@ -33,9 +33,9 @@ body {
   h3{
     color: yellow;
     position: absolute;
-    margin-left: 35%;
     left: 176px;
     top: 238px;
+    margin-left: 30%;
     font-family: pac_font;
   }
   p{
@@ -61,10 +61,10 @@ body {
   #container {
     padding: 0px;
     background:#FFF;
-    margin-left: 35%;
     font-family: monospace;
     position: relative;
     display: inline-block;
+    margin-left: 30%;
   }
   .maptile{
     display: inline-block;
